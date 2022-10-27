@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * * main - wrties the string "_putchar" to stdout
- * * @string - the string to be printed to standard ouput
- * * Return: returns 0 after printing the string
- * */
+* main - wrties the string "_putchar" to stdout
+* @string - the string to be printed to standard ouput
+* Return: returns 0 after printing the string
+*/
 int main(void)
 {
 	char string[] = "_putchar";
