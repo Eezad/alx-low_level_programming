@@ -13,8 +13,3 @@ int _abs(int n)
 	else
 		return (n);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Pri
